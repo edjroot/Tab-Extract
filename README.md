@@ -1,6 +1,8 @@
 Tab Extract
 ==========
 
-A flexible &amp; simple Chrome extension to dramatically reduce tab clutter
+A flexible &amp; simple WebExtension to dramatically reduce tab clutter (forked for compatibility with Firefox)
 
-https://chrome.google.com/webstore/detail/tab-extract/iphchnegaodmijmkdlbhbanjhfphhikp
+Chrome ([original repo](https://github.com/monting/Tab-Extract)): https://chrome.google.com/webstore/detail/tab-extract/iphchnegaodmijmkdlbhbanjhfphhikp
+
+Firefox: https://addons.mozilla.org/en-GB/firefox/addon/tabextract/
